@@ -40,5 +40,5 @@ Open a browser and go to URL
     
 ## 5. Test appcolor.py
 
-    docker run -e COLOR=blue simple-webappcolor
+    docker run -e APP_COLOR=blue simple-webappcolor
 
